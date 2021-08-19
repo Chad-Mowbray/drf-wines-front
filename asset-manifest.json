@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drf-wines-front/static/css/main.a617e044.chunk.css",
+    "main.js": "/drf-wines-front/static/js/main.465a2a1b.chunk.js",
+    "main.js.map": "/drf-wines-front/static/js/main.465a2a1b.chunk.js.map",
+    "runtime-main.js": "/drf-wines-front/static/js/runtime-main.74214d52.js",
+    "runtime-main.js.map": "/drf-wines-front/static/js/runtime-main.74214d52.js.map",
+    "static/js/2.57f3980e.chunk.js": "/drf-wines-front/static/js/2.57f3980e.chunk.js",
+    "static/js/2.57f3980e.chunk.js.map": "/drf-wines-front/static/js/2.57f3980e.chunk.js.map",
+    "static/js/3.034d37e1.chunk.js": "/drf-wines-front/static/js/3.034d37e1.chunk.js",
+    "static/js/3.034d37e1.chunk.js.map": "/drf-wines-front/static/js/3.034d37e1.chunk.js.map",
+    "index.html": "/drf-wines-front/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/drf-wines-front/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.57f3980e.chunk.js.LICENSE.txt": "/drf-wines-front/static/js/2.57f3980e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74214d52.js",
+    "static/js/2.57f3980e.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.465a2a1b.chunk.js"
+  ]
+}
